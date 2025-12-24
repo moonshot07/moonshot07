@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a full stack developer
 <!--
 **moonshot07/moonshot07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
