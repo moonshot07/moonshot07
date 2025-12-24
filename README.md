@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working as a full stack developer
+- 👯 I’m looking to collaborate on full stack web and mobile projects
 <!--
 **moonshot07/moonshot07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
